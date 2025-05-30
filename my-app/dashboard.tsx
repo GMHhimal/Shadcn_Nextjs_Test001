@@ -26,7 +26,7 @@ export default function Component() {
     { id: 11, name: "Input 12", secondary: "Input 11", status: "success" },
     { id: 12, name: "Input 12", secondary: "Input 12", status: "success" },
   ]
-
+ //Done with ur work, now lets do the dashboard
   const ingestSchedule = [{ name: "Clip 01", time: "Tomorrow 10:00", input: "Input 9" }]
 
   const ingestHistory = [
